@@ -1,7 +1,7 @@
-# Stick-war-hack
-Original Author: https://stickwarlegacymody.com/
-Original Source: https://stickwarlegacymody.com/
+# Stick War Legacy Mod (Mirror)
 
-This code was created by https://stickwarlegacymody.com/ and was found at the link above.
-It is being hosted here so that users dont have to go through all those ads and scams.
-It does not have an explicit license, so all rights are reserved by the original author.
+- Source: StickWarLegacyMody
+
+- Credit: Original code developed by the team at the link above.
+
+- This repository serves as a clean, ad-free mirror of the original source for easier accessibility. As no explicit license was provided with the original distribution, all rights remain with the original creator.
